@@ -1,0 +1,8 @@
+cff-version: 1.0.0
+message: "If you use these turbine models or files, please cite it as below."
+authors:
+  - family-names: Anstock
+    given-names: Fabian
+title: "x-Rotor -- two-bladed floating wind turbines"
+version: 1.0.0
+date-released: 2023-02-23
