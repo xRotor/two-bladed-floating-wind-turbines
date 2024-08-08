@@ -1,8 +1,14 @@
-cff-version: 1.0.0
-message: "If you use these turbine models or files, please cite it as below."
+cff-version: 1.2.0
+message: "If you use these wind turbine models, please cite it as below."
 authors:
-  - family-names: Anstock
-    given-names: Fabian
+- family-names: "Anstock"
+  given-names: "Fabian"
+  orcid: "https://orcid.org/0009-0000-7123-9084"
+- family-names: "Vera"
+  given-names: "Schorbach"
+  orcid: "https://orcid.org/0000-0001-7449-8671"
 title: "x-Rotor -- two-bladed floating wind turbines"
-version: 1.0.0
-date-released: 2023-02-23
+version: 1.0
+doi: https://zenodo.org/doi/10.5281/zenodo.13268965
+date-released: 2024-04-16
+url: "https://github.com/xRotor/two-bladed-floating-wind-turbines"
